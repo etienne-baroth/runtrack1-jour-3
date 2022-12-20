@@ -1,0 +1,20 @@
+body {
+    background-image: url(pexels-cátia-matos-1072179.jpg);
+    color: antiquewhite;
+    text-align: center;
+    opacity: 0.8;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+img {
+    height: 100%;
+    border-radius: 30px;
+}
+.text {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+ul {
+    list-style-type: none;
+}

@@ -1,0 +1,32 @@
+body {
+    background: radial-gradient(circle, rgba(74,180,58,1) 0%, rgba(29,73,253,0.6657256652661064) 49%, rgba(252,176,69,1) 100%);
+    font-family: perpetua;
+    text-align: center;
+}
+.nom {
+color: rgba(29,73,253,0.6657256652661064);
+border: solid 5px;
+border-radius: 20px 20px 20px 20px;
+text-align: center;
+padding-top: 20px;
+padding-right: 20px;
+padding-bottom: 20px;
+padding-left: 20px;
+margin: 5%;
+}
+img {
+    height: 100%;
+    border-radius: 30px;
+}
+.photo {
+    width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+}
+.list {
+    color: rgba(29,73,253,0.6657256652661064);
+}
+ul {
+    list-style-type: none;
+}

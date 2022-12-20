@@ -1,0 +1,19 @@
+body {
+    background-color: cornflowerblue;
+    text-align: center;
+}
+h1 {
+    font-weight: bold;
+    font-style: italic;
+}
+img {
+    height: 100%;
+    border: solid 5px;
+}
+.text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+ul {
+    list-style-type: none;
+}
